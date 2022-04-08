@@ -52,7 +52,7 @@ export class CoursesComponent implements OnInit {
   }
 
   saveCourse() {
-    console.log('SAVE SOURCE!');
+    console.log('SAVE COURSE!');
   }
 
   deleteCourse(courseId) {
